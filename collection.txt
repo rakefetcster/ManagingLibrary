@@ -1,0 +1,37 @@
+{
+    "_id" : ObjectId("631acca723addb3468bcc9a8"),
+    "auther" : "J R R Tolkien",
+    "title" : "The Hobbit",
+    "num_of_pages" : 856.0
+}
+{
+    "_id" : ObjectId("631accbd23addb3468bcc9a9"),
+    "auther" : "Ken Follett",
+    "title" : "The Pillars of the Earth1",
+    "num_of_pages" : 459.0
+}
+{
+    "_id" : ObjectId("631accd123addb3468bcc9aa"),
+    "auther" : "Ken Follett",
+    "title" : "The Pillars of the Earth2",
+    "num_of_pages" : 429.0
+}
+{
+    "_id" : ObjectId("631accdf23addb3468bcc9ab"),
+    "auther" : "Ken Follett",
+    "title" : "The Pillars of the Earth3",
+    "num_of_pages" : 249.0
+}
+{
+    "_id" : ObjectId("631accf323addb3468bcc9ac"),
+    "auther" : "Ken Follett",
+    "title" : "The Pillars of the Earth4",
+    "num_of_pages" : 499.0
+}
+// Newly added document
+{
+    "auther" : "Ken Follett",
+    "title" : "The Pillars of the Earth5",
+    "num_of_pages" : 419.0,
+    "_id" : ObjectId("631acdc423addb3468bcc9ae")
+}
